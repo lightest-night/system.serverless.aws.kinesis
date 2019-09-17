@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <AssemblyName>LightestNight.System.Serverless.Kinesis</AssemblyName>
+        <RootNamespace>LightestNight.System.Serverless.Kinesis</RootNamespace>
+        <LangVersion>latest</LangVersion>
+        <IsPackable>true</IsPackable>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <PackageId>LightestNight.System.Serverless.Aws.Kinesis</PackageId>
+        <Authors>James Woodley</Authors>
+        <Company>LightestNight Ltd</Company>
+        <Title>LightestNight :: System :: Serverless :: AWS :: Kinesis</Title>
+        <Description>Utilities and helper functions for when integrating with Amazon Kinesis</Description>
+        <PackageTags>lightestnight;system;infrastructure;serverless;aws;kinesis</PackageTags>
+        <Version>1.0.0</Version>
+        <PackageVersion>1.0.0</PackageVersion>
+        <AssemblyVersion>1.0.0</AssemblyVersion>
+        <FileVersion>1.0.0</FileVersion>
+        <InformationalVersion>1.0.0</InformationalVersion>
+        <PackageIconUrl>https://www.gravatar.com/avatar/01d9ae6081c5243ef46b38dc4056f9d8</PackageIconUrl>
+        <RepositoryUrl>https://github.com/lightestnight/system.serverless.aws.kinesis</RepositoryUrl>
+    </PropertyGroup>
+
+</Project>
